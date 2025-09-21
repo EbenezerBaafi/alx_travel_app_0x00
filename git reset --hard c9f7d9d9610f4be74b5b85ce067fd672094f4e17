@@ -1,0 +1,11 @@
+[33mcommit bbdd2c2da7aa07ece89f11576099d970a726fbf7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Aled Ebenezer Baafi Junior <cedicray20@gmail.com>
+Date:   Sun Sep 21 23:12:27 2025 +0000
+
+    feat: duplicate project and add models, serializers, and seed command
+
+[33mcommit c9f7d9d9610f4be74b5b85ce067fd672094f4e17[m
+Author: Aled Ebenezer Baafi Junior <cedicray20@gmail.com>
+Date:   Sun Sep 21 21:18:27 2025 +0000
+
+    Initial Django project setup with listings app, MySQL, Celery, and Swagger configuration
